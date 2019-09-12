@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MaxElementsFinderApp/v15
+/BusinessLayer/Business/obj
+/BusinessLayer/Business.Tests/bin/Debug/netcoreapp2.2
+/BusinessLayer/Business.Tests/obj/Debug/netcoreapp2.2
+/BusinessLayer/Business.Tests/obj
+/MaxElementsFinderApp/bin/Debug/netcoreapp2.2
+/MaxElementsFinderApp/obj/Debug/netcoreapp2.2
+/MaxElementsFinderApp/obj
+/BusinessLayer/Business/bin/Debug/netcoreapp2.2
