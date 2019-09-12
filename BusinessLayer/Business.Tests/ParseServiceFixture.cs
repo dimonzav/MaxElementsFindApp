@@ -6,12 +6,6 @@ namespace Business.Tests
 
     public class ParseServiceFixture
     {
-        private IParseService parserService { get; }
-
-        public ParseServiceFixture()
-        {
-        }
-
         [Fact]
         public async Task Test_Success_Async()
         {
